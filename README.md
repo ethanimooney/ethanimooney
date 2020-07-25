@@ -1,5 +1,5 @@
 # Ethan Mooney :smile:
-Computer Science @ Oklahoma Christian University | STEP Intern @ Google | Aspiring Developer
+Computer Science @ Oklahoma Christian University **|** STEP Intern @ Google **|** Aspiring Developer
 
 ## :raising_hand: About
 Hey! I'm Ethan, a computer science major at Oklahoma Christian University and a Google STEP Intern. I love all types of programming, but especially enjoy front end web development.
