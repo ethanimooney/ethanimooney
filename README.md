@@ -2,7 +2,7 @@
 Computer Science @ Oklahoma Christian University | STEP Intern @ Google | Aspiring Developer
 
 ## :raising_hand: About
-Hey, I'm Ethan, a computer science major at Oklahoma Christian University and Google STEP Intern. I love all types of programming, but especially enjoy front end web development.
+Hey! I'm Ethan, a computer science major at Oklahoma Christian University and a Google STEP Intern. I love all types of programming, but especially enjoy front end web development.
 
 ## :pencil: Work
 - Co-Creator of [wheell](https://wheell.appspot.com/), a webapp empowering wheelchair users with accessibility information. Currently in development.
