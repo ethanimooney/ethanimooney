@@ -1,4 +1,4 @@
-# Ethan Mooney :yum:
+# Ethan Mooney :smile:
 Computer Science @ Oklahoma Christian University | STEP Intern @ Google | Aspiring Developer
 
 ## :raising_hand: About
