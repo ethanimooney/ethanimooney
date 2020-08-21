@@ -1,12 +1,12 @@
 # Ethan Mooney :smile:
-Computer Science @ Oklahoma Christian University **|** STEP Intern @ Google **|** Aspiring Developer
+Computer Science @ Oklahoma Christian University **|** Former STEP Intern @ Google **|** Aspiring Developer
 
 ## :raising_hand: About
-Hey! I'm Ethan, a computer science major at Oklahoma Christian University and a Google STEP Intern. I love all types of programming, but especially enjoy front end web development.
+Hey! I'm Ethan, a computer science major at Oklahoma Christian University and a Former Google STEP Intern and Google CSSI Alumni. I love all types of programming, but especially enjoy front end web development.
 
 ## :pencil: Work
 - Co-Creator of [wheell](https://wheell.appspot.com/), a webapp empowering wheelchair users with accessibility information. Currently in development.
-- Google STEP Intern
+- Google STEP Intern Project [SmallCity](https://step2020-smallcity.appspot.com)
 - Freelance web design for [UDining](https://www.udining.com)
 
 ## :computer: Technologies
