@@ -2,7 +2,7 @@
 Computer Science @ Oklahoma Christian University **|** Incoming/Former STEP Intern @ Google **|** Aspiring Developer
 
 ## :raising_hand: About
-Hey! I'm Ethan, a computer science major at Oklahoma Christian University, an Incoming / Former Google STEP Intern, and Google CSSI Alumni. I love all types of programming, but especially enjoy front end web development.
+Hey! I'm Ethan, a computer science major at Oklahoma Christian University, a Current and Former Google STEP Intern, and Google CSSI Alumni. I love all types of programming, but especially enjoy front end web development.
 
 ## :pencil: Work
 - Co-Creator of [wheell](https://wheell.appspot.com/), a webapp empowering wheelchair users with accessibility information. Currently in development.
@@ -10,9 +10,9 @@ Hey! I'm Ethan, a computer science major at Oklahoma Christian University, an In
 - Freelance web design for [UDining](https://www.udining.com)
 
 ## :computer: Technologies
-- Frontend Web Development with **HTML, CSS, VanillaJS, Bulma**
-- Backend Development with **Java, C++, Node, Maven, Google Cloud Platform**
-- User Interface Design with **Adobe XD, Adobe Illustrator, Figma**
+- Frontend Web Development with **HTML, CSS, JS, Bulma, Vue, Polymer, Mojo**
+- Backend Development with **Java, C++, NodeJS, Maven, Google Cloud Platform, Amazon Web Services**
+- User Interface Design with **Adobe XD, Adobe Illustrator, Adobe Photoshop, Figma**
 
 ## :mailbox: Get in Touch
 - Website - [ethanimooney.com](https://www.ethanimooney.com/)
